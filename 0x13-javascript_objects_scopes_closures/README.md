@@ -1,1 +1,1 @@
-Readme file
+objects scopes closure
